@@ -3,8 +3,7 @@ welcome to My First Project.
 
 HTML
 CSS
-JAVA
-SQl
+
 
 
 Thank You
